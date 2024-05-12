@@ -1,0 +1,22 @@
+:root {
+  /* font-size */
+  --font--size--mega: 48px;
+  --font--size--large: 40px;
+  --font--size--medium: 32px;
+  --font--size--small: 24px;
+  --font--size--xsmall: 20px;
+  --font--size--mini: 16px;
+  /* color */
+  --main--color: rgb(75, 90, 219);
+  --shadow--color: rgba(196, 196, 211, 0.575);
+  --subcontent-color:rgb(104, 104, 104);
+
+
+  /* padding */
+  --li--padding: 12px 16px;
+
+  /* width */
+  --maxwidth--pc: 1024px;
+  --maxwidth--tablet: 680px;
+  --maxwidth--mobile: 480px;
+}
